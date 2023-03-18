@@ -1,0 +1,39 @@
+@media screen and (min-width: 992px) {
+.carsl{
+    
+   max-height:  550px;
+    
+
+}
+}
+.carsl {
+  
+
+  background:linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)k;
+  opacity: .8;
+
+    
+}
+@media only screen and (max-width: 600px){
+  .carsl h2{
+    font-size: medium;
+    font-weight: bold;
+  }
+  .carsl p{
+    font-size:small !important;
+    font-weight: lighter !important;
+    color: rgb(249, 249, 244) ;
+  }
+  .carousel-caption{
+    text-align:center;
+  }
+}
+.carsl h2{
+  color: rgb(2, 6, 0);
+  font-weight: bold;
+}
+.carsl p{
+  color: rgb(251, 251, 113);
+  font-weight: bold;
+  font-size: larger;
+}
